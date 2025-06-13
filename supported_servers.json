@@ -9,11 +9,13 @@
     "nameAddressPointer": 18069424
   },
   {
+    "index": 0,
     "name": "Trinity2.0",
-    "description": "Trinity Ragnarok Online",
-    "site": "https://trinityv2.club/",
-    "hpAddress": "0x00E4CAE4",
-    "nameAddress": "0x00E4D758"
+    "description": null,
+    "hpAddress": "00E4CAE4",
+    "nameAddress": "00E4D758",
+    "hpAddressPointer": 14994148,
+    "nameAddressPointer": 14997336
   },
     {
     "index": 0,
